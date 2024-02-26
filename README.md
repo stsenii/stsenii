@@ -8,7 +8,7 @@
 
 
 <h3 style="text-align: justify;"> 📚 Expanding Expertise in Key Focus Areas:</h3>
-<p style="text-align: justify;"> - 🛠️ Manual Testing:<br>
+<p style="text-align: justify; direction: rtl;"> - 🛠️ Manual Testing:<br>
     To enhance my proficiency in manual testing, I am committed to delving deeper into fundamental testing methodologies, test case design, and execution strategies. Exploring various types of testing, such as functional, regression, and user acceptance testing. I aim to grasp a comprehensive understanding of manual testing principles, tools, and best practices, ensuring a robust foundation in this crucial aspect of software quality assurance.
 </p>
 <p style="text-align: justify;"> - 🌐 Automation Testing:<br>
