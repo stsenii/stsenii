@@ -1,4 +1,6 @@
 ![Alt text](https://github.com/stsenii/stsenii/blob/main/image.png)
+
+<h3 align="center"> 🚀Aspiring Junior QA Engineer |  📚 Passionate Learner  | :eye_speech_bubble::woman_student: Detail-Oriented Engineering Student**
 <!--
 **stsenii/stsenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
