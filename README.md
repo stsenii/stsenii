@@ -1,6 +1,6 @@
 <div style="text-align:center;">
 
-[(https://github.com/stsenii/stsenii/blob/main/image.png)](https://github.com/stsenii/stsenii/blob/main/image.png)
+![Header image](https://github.com/stsenii/stsenii/blob/main/image.png)
 
 </div>
 
