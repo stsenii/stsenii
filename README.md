@@ -24,6 +24,9 @@
 <p style="text-align: left;">In the realm of Agile project management, I am keen on broadening my knowledge of Agile methodologies, including Scrum, Kanban, and Lean. Embracing Agile principles, I aim to understand the intricacies of iterative development, sprint planning, and effective collaboration within cross-functional teams. My pursuit is to not only comprehend Agile concepts but also apply them effectively to drive successful project outcomes and foster a culture of continuous improvement.
     </p>
 
+<h3 style="text-align: justify;">Connect with me:</h3>
+<p style="text-align: left>Let's collaborate and innovate! Feel free to reach out on [LinkedIn](www.linkedin.com/in/seniha-tair-856b9326b)
+</p>
 
 
 
