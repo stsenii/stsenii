@@ -1,6 +1,9 @@
-<center>
-![Alt text](https://github.com/stsenii/stsenii/blob/main/image.png)
-</center>
+<div style="text-align:center;">
+
+[Your Link Text](https://github.com/stsenii/stsenii/blob/main/image.png)
+
+</div>
+
 <h3 align="center"> 🚀Aspiring Junior QA Engineer |  📚 Passionate Learner  | :eye_speech_bubble::woman_student: Detail-Oriented Engineering Student
 <!--<h3 align="center">
 **stsenii/stsenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
