@@ -1,4 +1,3 @@
-###Hi there 👋
 ![Alt text](https://github.com/stsenii/stsenii/blob/main/image.png)
 <!--
 **stsenii/stsenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
