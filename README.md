@@ -8,9 +8,27 @@
 
 
 <h3 style="text-align: justify;"> 📚 Expanding Expertise in Key Focus Areas:</h3>
-<p style="text-align: justify; text-align-last: justify;"> - 🛠️ Manual Testing:<br>
-    To enhance my proficiency in manual testing, I am committed to delving deeper into fundamental testing methodologies, test case design, and execution strategies. Exploring various types of testing, such as functional, regression, and user acceptance testing. I aim to grasp a comprehensive understanding of manual testing principles, tools, and best practices, ensuring a robust foundation in this crucial aspect of software quality assurance.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .text-align-justify {
+      text-align: justify;
+    }
+  </style>
+  <title>Text Alignment</title>
+</head>
+<body>
+
+<p class="text-align-justify">
+  To enhance my proficiency in manual testing, I am committed to delving deeper into fundamental testing methodologies, test case design, and execution strategies. Exploring various types of testing, such as functional, regression, and user acceptance testing. I aim to grasp a comprehensive understanding of manual testing principles, tools, and best practices, ensuring a robust foundation in this crucial aspect of software quality assurance.
 </p>
+
+</body>
+</html>
 
 <p style="text-align: justify;"> - 🌐 Automation Testing:<br>
     Recognizing the increasing significance of automation testing, I am eager to advance my skills in scripting languages, test automation frameworks, and continuous integration tools. My goal is to become adept at creating automated test scripts, executing test suites, and integrating automation seamlessly into the software development lifecycle.
