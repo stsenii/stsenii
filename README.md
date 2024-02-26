@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
 
 ![Header image](https://github.com/stsenii/stsenii/blob/main/image.png)
 
