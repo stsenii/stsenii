@@ -25,9 +25,10 @@
     </p>
 
 <h3 style="text-align: justify;">Connect with me:</h3>
-<p align="left">Let's collaborate and innovate! Feel free to reach out on <a href="www.linkedin.com/in/seniha-tair-856b9326b"><img src="[link_to_linkedin_icon_image.png](https://github.com/stsenii/stsenii/blob/main/174857.png)" width="20" height="20" alt="LinkedIn"></a>
+<p align="left">Let's collaborate and innovate! Feel free to reach out on <a href="www.linkedin.com/in/seniha-tair-856b9326b" target="_blank">
+  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/stsenii/stsenii/blob/main/174857.png?raw=true)" alt="senihatair" height="30" width="40" />
+</a>
 </p>
-
 
 
 
