@@ -6,7 +6,7 @@
 
 <h3 align="center"> 🚀Aspiring Junior QA Engineer |  📚 Passionate Learner  | :eye_speech_bubble::woman_student: Detail-Oriented Engineering Student
 
-<h3 style="text-align: left;"> 📚 Expanding Expertise in Key Focus Areas:</h3>
+
 <div style="text-align: left;">
   <h3>📚 Expanding Expertise in Key Focus Areas:</h3>
   <p>- 🛠️ Manual Testing:<br>
